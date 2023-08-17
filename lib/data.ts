@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import airbnbImg from "@/public/airbnb.png";
-import natoursImg from "@/public/natours.png";
-import wildImg from "@/public/wild-oasis.png";
+import airbnbImg from "@/public/airbnb.jpg";
+import natoursImg from "@/public/natours.jpg";
+import wildImg from "@/public/wild-oasis.jpg";
 
 export const links = [
   {
