@@ -23,8 +23,11 @@ function About() {
         did my military service as Reserve Officer (1 year). After military
         service, I returned to Istanbul. Since January 2022, I have pursued my
         passion for <span className="font-medium">software developing</span>. I
-        have finished several web developer bootcamps. I am currently looking
-        for a full-time position as a software developer.
+        have finished several web developer bootcamps. You can find my{" "}
+        <span className="italic">projects </span>
+        on this site and on my <span className="underline">github</span>{" "}
+        account. I am currently looking for a full-time position as a software
+        developer.
       </p>
       <p className="">
         When I am not coding, I enjoy watching movies, meeting friends and

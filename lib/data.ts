@@ -73,6 +73,7 @@ export const projectsData = [
       "I studied on this project in order to level up the back-end skils as well as front-end skils",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma", "Next-auth"],
     imageUrl: airbnbImg,
+    siteUrl: "https://fullstack-clone-project.vercel.app/",
   },
   {
     title: "Natours",
@@ -80,6 +81,7 @@ export const projectsData = [
       "I built the Natours website along with Jonas Schmedtmann who is a lecturer in Udemy. Natours is a website on which you can puchase tours",
     tags: ["Node.js", "MongoDB", "Mongoose", "Express"],
     imageUrl: natoursImg,
+    siteUrl: "https://natours-0huh.onrender.com",
   },
   {
     title: "Wild-oasis",
@@ -87,6 +89,7 @@ export const projectsData = [
       "I built also this website along with Jonas Schmedtmann. You can add cabin houses, create users and review data about these with animating graphics. ",
     tags: ["React", "ReactQuery", "Supabase"],
     imageUrl: wildImg,
+    siteUrl: "https://course-project-eight.vercel.app/",
   },
 ];
 

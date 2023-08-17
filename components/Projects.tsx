@@ -20,6 +20,7 @@ function Projects() {
               description={project.description}
               tags={project.tags}
               imageUrl={project.imageUrl}
+              siteUrl={project.siteUrl}
             />
           );
         })}
