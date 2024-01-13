@@ -51,8 +51,7 @@ export const experiencesData = [
   {
     title: "Internship",
     location: "Smart Energy, Gebze / Kocaeli",
-    description:
-      "I worked as a propduction engineer in the company that products solar energy panels.",
+    description: "I worked as a propduction engineer in the company that products solar energy panels.",
     icon: React.createElement(CgWorkAlt),
     date: "2019",
   },
@@ -62,23 +61,21 @@ export const experiencesData = [
     description:
       "Since 2022, I have developed and deployed some projects in order to get a full-time job as an web-developer. My projects includes front-end and back-end technologies.",
     icon: React.createElement(FaReact),
-    date: "2022 - present",
+    date: "2023 - present",
   },
 ] as const;
 
 export const projectsData = [
   {
     title: "Airbnb-clone",
-    description:
-      "I studied on this project in order to level up the back-end skils as well as front-end skils",
+    description: "I studied on this project in order to level up the back-end skils as well as front-end skils",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma", "Next-auth"],
     imageUrl: airbnbImg,
     siteUrl: "https://fullstack-clone-project.vercel.app/",
   },
   {
     title: "Natours",
-    description:
-      "I built the Natours website along with Jonas Schmedtmann who is a lecturer in Udemy. Natours is a website on which you can puchase tours",
+    description: "I built the Natours website along with Jonas Schmedtmann who is a lecturer in Udemy. Natours is a website on which you can puchase tours",
     tags: ["Node.js", "MongoDB", "Mongoose", "Express"],
     imageUrl: natoursImg,
     siteUrl: "https://natours-0huh.onrender.com",
